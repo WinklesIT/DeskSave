@@ -57,7 +57,7 @@ That's it. Your files are copied to a folder named after your PC and the date, s
 ## Screenshots
 
 ![Dashboard](screenshots/dashboard.jpg)
-![New Backup](screenshots/newbackup.jpg)
+![New Backup](screenshots/newbackup-tab.jpg)
 ![Restore](screenshots/Restore.jpg)
 
 ---
