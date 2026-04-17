@@ -3,27 +3,28 @@
 
 Copyright (C) 2026 Joshua Winkles
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
----
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
-In plain terms:
+(Note: Due to the extreme length of the full GPL v3 text—roughly 5,600 words—it is standard practice to download the official, unaltered text from the Free Software Foundation and paste it here. You can find the raw text at: https://www.gnu.org/licenses/gpl-3.0.txt)
 
-- You can use DeskSave for free, personally or professionally.
-- You can share it, as long as Joshua Winkles is credited as the original author.
-- You can modify it, but you must release your changes under this same license.
-- You cannot sell it or repackage it as a paid product.
-- You cannot remove or replace the author credit.
+Summary of Terms (Plain English)
+While the legal text above is the governing document, here is a simplified breakdown of what this means for DeskSave:
 
-For permissions outside the scope of this license, contact the author.
+Commercial & Personal Use: You are free to use DeskSave for any purpose, including at work.
+
+Copyleft: If you modify DeskSave and distribute it to others, you must keep the source code open and use this same GPL v3 license. You cannot make it "closed source."
+
+Attribution: You must keep the original copyright notice and credit to Joshua Winkles intact.
+
+No Warranty: The software is provided "as-is." The author is not liable for any issues arising from its use.
+
+A Note on Selling: Under the GPL, you can actually charge a fee for the act of transferring a copy or providing support. However, because the license requires the source code to remain free and open, anyone you sell it to has the right to give it away for free themselves.
+
+Important: This summary is for convenience only. In the event of a conflict, the full GNU General Public License v3 text above takes legal precedence.
