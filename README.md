@@ -2,7 +2,7 @@
 
 
 
-A free Windows tool that backs up your personal files, browser bookmarks, printers, wallpaper, and app settings — then restores them on a new or rebuilt PC. No installation required.
+A free Windows tool for IT professionals/Users that backs up your personal files, browser bookmarks, printers, wallpaper, and app settings — then restores them on a new or rebuilt PC. No installation required.
 
 ---
 
