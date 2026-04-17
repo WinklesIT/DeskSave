@@ -46,7 +46,7 @@ You pick what you want. Nothing is selected without you knowing.
 
 ## First backup
 
-1. Go to **New Backup** in the sidebar
+1. Go to **New Backup** in the sidebar or the New Backup button on the dashboard
 2. Check what you want to include
 3. Hit **Start Backup**
 
