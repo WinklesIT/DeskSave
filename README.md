@@ -130,16 +130,18 @@ based on real user feedback.
 
 **Backup additions:**
 
-Outlook signatures
-Sticky Notes
-Custom fonts installed by the user
-Taskbar layout — pinned apps
-Start menu pins (Windows 11)
+1. Outlook signatures
+2. Sticky Notes
+3. Custom fonts installed by the user
+4. Taskbar layout — pinned apps &Start menu pins (Windows 11)
+
+
 
 **UX improvements:**
 
-A "Verify backup" button after completing a backup that spot-checks file counts and sizes match the source
-Selective file restore: right now it's all files; allowing users to restore just specific subfolders e.g. only Documents\Work may be beneficial
+1. A "Verify backup" button after completing a backup that spot-checks file counts and sizes match the source
+2. Selective file restore: right now it's all files; allowing users to restore just specific subfolders e.g. only Documents\Work may be beneficial
+
 
 ---
 
