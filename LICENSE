@@ -1,30 +1,56 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
-Copyright (C) 2026 Joshua Winkles
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
-
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
-(Note: Due to the extreme length of the full GPL v3 text—roughly 5,600 words—it is standard practice to download the official, unaltered text from the Free Software Foundation and paste it here. You can find the raw text at: https://www.gnu.org/licenses/gpl-3.0.txt)
+Copyright (C) 2026 Joshua Winkles
 
-Summary of Terms (Plain English)
-While the legal text above is the governing document, here is a simplified breakdown of what this means for DeskSave:
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Commercial & Personal Use: You are free to use DeskSave for any purpose, including at work.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-Copyleft: If you modify DeskSave and distribute it to others, you must keep the source code open and use this same GPL v3 license. You cannot make it "closed source."
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-Attribution: You must keep the original copyright notice and credit to Joshua Winkles intact.
+--------------------------------------------------------------------
 
-No Warranty: The software is provided "as-is." The author is not liable for any issues arising from its use.
+SUMMARY 
 
-A Note on Selling: Under the GPL, you can actually charge a fee for the act of transferring a copy or providing support. However, because the license requires the source code to remain free and open, anyone you sell it to has the right to give it away for free themselves.
+This summary is provided to help explain your rights in plain language.
+The full GPLv3 license above is the legally binding license.
 
-Important: This summary is for convenience only. In the event of a conflict, the full GNU General Public License v3 text above takes legal precedence.
+What you are allowed to do:
+- Use this software for any purpose, personal or commercial.
+- Run the program as-is without restriction.
+- Copy and redistribute the software.
+- Modify the source code to suit your needs.
+- Distribute your modified versions under the same GPLv3 license.
+
+What you must do if you share it (original or modified):
+- You must include the original GPL license text.
+- You must keep the same license (GPLv3 or later) for all copies and derivatives.
+- You must provide access to the source code when distributing the software.
+- You must clearly state what changes you made (if modified).
+- You must keep original copyright notices, including “Copyright (C) 2026 Joshua Winkles”.
+
+What you are NOT allowed to do:
+- You cannot take away others’ rights under the GPL.
+- You cannot distribute closed-source or proprietary versions of this software.
+- You cannot remove or hide the original copyright or license.
+- You cannot relicense this software under more restrictive terms.
+
+Important clarification:
+- You ARE allowed to sell copies of this software.
+  However, anyone who receives it must also get the same freedoms under GPLv3,
+  including access to the source code and the right to modify and redistribute it.
+
+No warranty:
+- This software is provided “as is”, without any warranty.
+- The author is not responsible for any damages or issues resulting from its use.
+
+For the full legal terms, refer to the GPLv3 text above or visit:
+https://www.gnu.org/licenses/gpl-3.0.html
