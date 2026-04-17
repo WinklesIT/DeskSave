@@ -1,5 +1,6 @@
 ![DeskSave Logo](assets/DeskSave_logo.svg)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/winklesit)
 
 
 A free Windows tool for IT professionals & Users that backs up your personal files, browser bookmarks, printers, wallpaper, and app settings — then restores them on a new or rebuilt PC. No installation required.
