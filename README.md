@@ -140,7 +140,7 @@ based on real user feedback.
 **UX improvements:**
 
 1. A "Verify backup" button after completing a backup that spot-checks file counts and sizes match the source
-2. Selective file restore: right now it's all files; allowing users to restore just specific subfolders e.g. only Documents\Work may be beneficial
+2. Selective file restore: right now it's all files; Hoping to allow for users to be able to select specific folders to backup
 
 
 ---
