@@ -126,6 +126,21 @@ have a feature request, or just want to share how it worked for you
 open a GitHub Issue or reach out. I plan to keep improving DeskSave 
 based on real user feedback.
 
+***Feature improvement ideas**
+
+**Backup additions:**
+
+Outlook signatures
+Sticky Notes
+Custom fonts installed by the user
+Taskbar layout — pinned apps
+Start menu pins (Windows 11)
+
+**UX improvements:**
+
+A "Verify backup" button after completing a backup that spot-checks file counts and sizes match the source
+Selective file restore: right now it's all files; allowing users to restore just specific subfolders e.g. only Documents\Work may be beneficial
+
 ---
 
 ## License
