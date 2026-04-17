@@ -1,4 +1,6 @@
-# DeskSave
+![DeskSave Logo](assets/DeskSave_logo.svg)
+
+
 
 A free Windows tool that backs up your personal files, browser bookmarks, printers, wallpaper, and app settings — then restores them on a new or rebuilt PC. No installation required.
 
