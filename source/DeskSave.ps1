@@ -1762,6 +1762,32 @@ try {
                                         <TextBlock Text="  ·  Copyright © 2026" FontSize="12"
                                                    Foreground="{StaticResource TextMuted}"/>
                                     </StackPanel>
+			<StackPanel Orientation="Horizontal" Margin="0,6,0,0">
+    <TextBlock FontSize="13"
+               FontWeight="SemiBold"
+               Foreground="{StaticResource TextMuted}">
+
+        <Hyperlink x:Name="KoFiLink"
+                   NavigateUri="https://ko-fi.com/winklesit"
+                   TextDecorations="None">
+
+            <Hyperlink.Style>
+                <Style TargetType="Hyperlink">
+                    <Setter Property="Foreground" Value="#FF4DA3FF"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="TextDecorations" Value="Underline"/>
+                            <Setter Property="Foreground" Value="#66B3FF"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Hyperlink.Style>
+
+            ☕ Support me on Ko-fi →
+        </Hyperlink>
+
+    </TextBlock>
+</StackPanel>
                                 </StackPanel>
                             </StackPanel>
                         </Border>
@@ -1965,6 +1991,16 @@ QzofXX9PXZR0He0AAAAASUVORK5CYII=
     $tbBackupDest        = $Window.FindName("tbBackupDest")
     $btnBrowseBackupDest = $Window.FindName("btnBrowseBackupDest")
     $txtBackupDestLabel  = $Window.FindName("txtBackupDestLabel")
+	
+	# Hyperlink to Support me page
+	$hyperlink = $window.FindName("KoFiLink")
+
+$hyperlink.Add_RequestNavigate({
+    param($sender, $e)
+
+    Start-Process $e.Uri.AbsoluteUri
+    $e.Handled = $true
+})
 
     # ---------------------------
     # Helper: Update backup location indicator on dashboard
