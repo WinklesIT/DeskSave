@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180" width="560" height="180">
+  <polygon points="90,12  140,36  140,108  90,132  40,108  40,36" fill="#0F172A"/>
+  <polygon points="90,19  133,40  133,105  90,126  47,105  47,40" fill="#1E3A5F"/>
+  <rect x="83" y="46" width="14" height="34" rx="2" fill="#2563EB"/>
+  <polygon points="72,80  90,102  108,80" fill="#2563EB"/>
+  <polygon points="120,26  140,36  140,56  120,26" fill="#38BDF8" opacity="0.75"/>
+  <text x="162" y="94" font-family="system-ui,-apple-system,sans-serif" font-size="58" font-weight="800" fill="#0F172A" letter-spacing="2">DESK</text>
+  <text x="323" y="94" font-family="system-ui,-apple-system,sans-serif" font-size="58" font-weight="200" fill="#0F172A" letter-spacing="6">SAVE</text>
+  <line x1="162" y1="106" x2="545" y2="106" stroke="#E2E8F0" stroke-width="0.5"/>
+  <text x="162" y="126" font-family="system-ui,-apple-system,sans-serif" font-size="10.5" font-weight="500" fill="#64748B" letter-spacing="2.6">STANDARDIZE MIGRATIONS. ELIMINATE SETUP TIME.</text>
+</svg>
