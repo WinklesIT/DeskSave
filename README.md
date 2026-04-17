@@ -54,6 +54,14 @@ That's it. Your files are copied to a folder named after your PC and the date, s
 
 ---
 
+## Screenshots
+
+![Dashboard](screenshots/dashboard.jpg)
+![New Backup](screenshots/newbackup.jpg)
+![Restore](screenshots/Restore.jpg)
+
+---
+
 ## Restoring
 
 1. Go to **Restore** in the sidebar
